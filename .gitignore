@@ -5,6 +5,7 @@
 *.pydevproject
 .project
 .metadata
+webapp/WEB-INF/classes
 bin/
 tmp/
 *.tmp
